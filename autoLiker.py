@@ -15,7 +15,7 @@ def abrirChrome():
 
 def darLike():
     cont = 0
-    for i in range(5):
+    for i in range(100):
         print("ejecucion numero: ", i)
         time.sleep(1)
         try:
@@ -30,7 +30,7 @@ def darLike():
 
 def sacarLike():
     cont = 0
-    for i in range(5):
+    for i in range(100):
         print("ejecucion numero: ", i)
         time.sleep(1)
         try:
